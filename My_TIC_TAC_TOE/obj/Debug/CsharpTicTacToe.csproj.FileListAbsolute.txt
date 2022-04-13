@@ -1,0 +1,10 @@
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe.config
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.pdb
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\CsharpTicTacToe.csproj.AssemblyReference.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.CsharpTicTacToe.resources
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.Properties.Resources.resources
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\CsharpTicTacToe.csproj.GenerateResource.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\CsharpTicTacToe.csproj.CoreCompileInputs.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.pdb
